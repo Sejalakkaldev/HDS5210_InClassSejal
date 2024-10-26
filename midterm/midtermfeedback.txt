@@ -1,0 +1,4 @@
+Your Dyspnea normalization is incorrect. You don't actually have any conditions that evaluate to No breathlessness.
+BODE Risk evaluates to a number - not a description.
+Because of that you missed the calculation for an average.
+You have the file data partially right
